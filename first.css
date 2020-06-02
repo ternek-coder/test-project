@@ -96,11 +96,11 @@
         width: 80%;
         height: 45px;
         background-color: aqua;
-        border: 2px solid red;
+        border: 3px solid red;
     }
     .fotoBlock{
         width: 100%;
-        height: 300px;
+        height: 310px;
         display: flex;
         flex-wrap: wrap;
         flex-direction: column;
