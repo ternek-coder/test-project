@@ -106,12 +106,12 @@
         flex-direction: column;
         align-items: center;
         align-content: space-around;
-        margin-top: 20px;
+        margin-top: 30px;
     }
     .foto{
         width: 29%;
         height: 80px;
-        border: 2px solid red;
+        border: 2px solid black;
         background-color: rgb(120, 120, 207);
     }
     .firstBlock{
@@ -129,7 +129,7 @@
     .picture{
         width: 30%;
         height: 90px;
-        background-color: aqua;
+        background-color: yellow;
         border: 2px solid red;
     }
     .secondBlock{
